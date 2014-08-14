@@ -1,0 +1,19 @@
+Appman
+======
+
+Appman lets you easily check on your remote servers.
+Its usage is directly inspired by heroku, but works on any server.
+
+- Commands
+
+help # this message
+releases # view the last releases in your app dir
+logs # print your latest logs
+run # run bash in your app dir
+
+- Info
+
+github.com/colinyoung/appman
+@colinyoung
+
+GPL v2, feel free to fork!
